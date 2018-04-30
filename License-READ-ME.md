@@ -1,5 +1,6 @@
-# T4G-Shell-theme-III
-A shell theme
+ T4G-Shell-theme-III
+
+A gnome-shell theme
 
  Copyright 2009, 2015 Red Hat, Inc.
  *
